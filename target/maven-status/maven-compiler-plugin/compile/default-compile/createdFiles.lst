@@ -1,0 +1,7 @@
+ar\charlycimino\cac\crud\modelo\ModeloHC.class
+ar\charlycimino\cac\crud\controlador\ErrorServlet.class
+ar\charlycimino\cac\crud\modelo\Modelo.class
+ar\charlycimino\cac\crud\modelo\ModeloMySQL.class
+ar\charlycimino\cac\crud\modelo\Conexion.class
+ar\charlycimino\cac\crud\modelo\Alumno.class
+ar\charlycimino\cac\crud\controlador\AppServlet.class
